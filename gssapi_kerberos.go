@@ -1,7 +1,7 @@
 package sarama
 
 import (
-	"encoding/asn1"
+	"github.com/jcmturner/gofork/encoding/asn1"
 	"encoding/binary"
 	"fmt"
 	"io"
